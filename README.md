@@ -11,7 +11,7 @@ I'm a new grad software engineer with experience with full stack as well as AI d
 </ul>
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,go,ts,html,css,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,go,ts,html,css,sqlite)](https://skillicons.dev)
 
 ## Tools/Frameworks
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,firebase,nodejs,aws,git,docker)](https://skillicons.dev)
