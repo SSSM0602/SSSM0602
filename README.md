@@ -2,7 +2,7 @@
 
 I'm a new grad software engineer with experience with full stack as well as AI development.
 <br>I use Neovim, btw. 
-<br><br>Currently, I'm getting into open source. Here are some of the repos I've contributed to:
+<br><br>Currently, I'm working on contributing to open source software. Here are some of the repos I've contributed to:
 <br>
 <ul>
   <li>https://github.com/strands-agents/tools</li>
